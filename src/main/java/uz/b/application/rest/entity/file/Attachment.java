@@ -2,10 +2,9 @@ package uz.b.application.rest.entity.file;
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.hibernate.annotations.Cache;
 import uz.b.application.base.BaseEntityUUID;
 import uz.b.application.base.BaseScheme;
-import uz.b.application.rest.enums.FileStatus;
+import uz.b.application.rest.enums.attachment.FileStatus;
 
 @Getter
 @Setter
