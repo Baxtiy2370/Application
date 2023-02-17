@@ -1,4 +1,4 @@
-package uz.b.application.rest.entity.applicant;
+package uz.b.application.rest.entity.user;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;

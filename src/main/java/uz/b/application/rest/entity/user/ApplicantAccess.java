@@ -1,4 +1,4 @@
-package uz.b.application.rest.entity.applicant;
+package uz.b.application.rest.entity.user;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
@@ -8,7 +8,6 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import org.springframework.stereotype.Service;
 import uz.b.application.base.BaseEntityUUID;
 import uz.b.application.base.BaseScheme;
 

@@ -1,8 +1,8 @@
 package uz.b.application.base;
 
-public class BaseURI {
+public interface BaseURI {
 
-    String API1 = "/api/v1";
+   String API1 = "/api/v1";
 
     //    String ME = "/me";
 //    String PING = "/ping";
